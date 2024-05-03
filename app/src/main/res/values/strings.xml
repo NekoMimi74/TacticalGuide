@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">Tactical Guide</string>
+
+    <!-- Main Screen -->
+    <string name="how">How to play?</string>
+    <string name="where">Where to play?</string>
+    <string name="buy">What to buy?</string>
+    <string name="vid">Gameplay Video</string>
+    <string name="about">About</string>
+
+    <!-- How to play -->
+    <string name="rules">Basic Rules</string>
+    <string name="toDo">To do and not to do</string>
+    <string name="tldrHowToPlay">The put it simply, shoot the people on the other team.</string>
+    <string name="tldrHowToPlay1">Take cover and call your hits. Do not overshoot.</string>
+
+    <!-- What to buy -->
+    <string name="toPlay">What do you need to play?</string>
+    <string name="system">4 Main Airsoft System</string>
+    <string name="toWear">What to wear</string>
+
+    <!-- 4 Main Airsoft System -->
+    <string name="aeg">Electric</string>
+    <string name="gas">Gas</string>
+    <string name="spring">Spring</string>
+    <string name="hpa">HPA</string>
+    <string name="systems">These are the four main systems of airsoft guns</string>
+
+    <!-- Where to Play -->
+    <string name="ga">This app for simple reasons will give information for Georgia.</string>
+    <string name="geAirsoft">GE Airsoft</string>
+    <string name="powerOps">Power Ops Airsoft</string>
+    <string name="teamAirsoft">Team Airsoft</string>
+    <string name="gaAirsoft">Georgia Airsoft</string>
+    <string name="search">Or search on Google for Airsoft fields.</string>
+
+    <!-- Rules -->
+    <string name="rule1">1.	Always wear Eye Protection</string>
+    <string name="rule2">2.	Don’t take off eye protection on field</string>
+    <string name="rule3">3.	No Blind fire</string>
+    <string name="rule4">4.	Call your hits</string>
+    <string name="rule5">5.	Don’t overshoot</string>
+    <string name="rule6">6.	Don’t go over (Insert FPS number here) FPS</string>
+    <string name="rule7">7.	Don’t go over (Insert joules here) joules (HPA only)</string>
+    <string name="rule8">8.	(For indoors and CQB fields) No full auto, semi auto only</string>
+
+    <!-- ToDoAndNotToDo -->
+    <string name="d">To Do:</string>
+    <string name="ToDo1">Call your hits not just on pain alone, but on audio and the pain.</string>
+    <string name="ToDo2">Backup your teammates. This is to help take advantage.</string>
+    <string name="ToDo3">Bring a GOOD backup. Always help a backup gun if you can afford it.</string>
+    <string name="ToDo4">Know how to do maintenance. Knowing to clean is very important.</string>
+
+    <string name="dn">Not to Do:</string>
+    <string name="NToDo1">Start fights</string>
+    <string name="NToDo2">Mag dumping someone</string>
+    <string name="NToDo3">Destroy part of the field</string>
+    <string name="NToDo4">Cheat</string>
+    <string name="NToDo5">Bring a terrible backup gun</string>
+
+    <!-- Need to Play -->
+    <string name="need">What do you need to play airsoft?</string>
+    <string name="eyePro">Eye Protection: You are required to wear it.</string>
+    <string name="mouthPro">Mouth protection is recommended (Dental bills are costly)</string>
+    <string name="gun">An airsoft gun</string>
+    <string name="bbs">BBs and Airsoft Mags</string>
+    <string name="greenCO2">Green gas or CO2 (Only if your gun requires gas)</string>
+    <string name="battery">Battery (Only if your gun requires electricity)</string>
+    <string name="gunCase">A carrying case</string>
+    <string name="renting">It is recommended to rent the equipment if starting out</string>
+
+    <!-- What to Wear -->
+    <string name="whatToWear">What should I wear?</string>
+    <string name="loose">Loose Clothing</string>
+    <string name="shoes">Running shoes or Boots</string>
+    <string name="rental">Rentals will already have a full mask given to them</string>
+
+    <!-- AEG -->
+    <string name="whatAEG">Airsoft Electric Gun (AEG)</string>
+    <string name="common">These are the most common guns in airsoft and have almost any models. From M4s to M1 Garands.</string>
+    <string name="aeg1">These guns take batteries to function. The batteries that are used are Lithium Polymer battery (LiPo) and Nickel–Metal Hydride battery (NiMH).</string>
+    <string name="lipoWarning">Warning!</string>
+    <string name="lipo">LiPo batteries can explode if improperly stored and/or used.</string>
+    <string name="lipoSafety">LiPo Safely Video</string>
+    <string name="aegRecommend">To start, I recommend G&amp;G CM-16 SRS M4 because it is reliable and is the one I use.</string>
+
+    <!-- Gas -->
+    <string name="GasSystem">Gas Airsoft Guns</string>
+    <string name="common1">These are the second most common and have many models. These are mainly pistols.</string>
+    <string name="gas1">These take either green gas, propane, or CO2. Green gas is just propane but with silicone lube add. Green gas is the most common gas type.</string>
+    <string name="gas2">There are other gases, but they aren\'t sold at common airsoft stores. HFC134a refrigerant, Red Gas, and Black Gas.</string>
+    <string name="gbbr">Stay away from Gas Rifle unless you are experience with the gas system.</string>
+    <string name="gasRecommend">If you are starting out, I don\'t recommend buying gas guns. If you are ready for one, I recommend Tokyo Marui pistols.
+    They are the most common pistol brand in airsoft and are great to upgrade.</string>
+
+    <!-- HPA -->
+    <string name="HPASystem">High Pressure Air (HPA)</string>
+    <string name="common2">This is the most common upgrade. This is one of the most expensive upgrade you can make.</string>
+    <string name="hpa1">My general rule is: If you don\'t know what HPA is, you don\'t have HPA.</string>
+    <string name="hpa2">If you know what HPA is, does your gun use an air tank, If not, you don\'t have HPA.</string>
+    <string name="hpaRecommend">I do not have HPA so I won\'t recommend anything.</string>
+
+    <!-- Spring -->
+    <string name="springSystem">Spring System</string>
+    <string name="common3">Not common at all. This is for a good reason.</string>
+    <string name="spring1">Spring airsoft guns are the cheapest airsoft guns on the market. They are terrible quality and shoot "walmart" bbs.</string>
+    <string name="spring2">These airsoft guns often use .12g bbs which are the lowest quality bbs that can shutter on impact and injurer someone.</string>
+    <string name="spring3">Snipers and shotguns that are over $100 are the only good spring airsoft guns you can buy. With snipers being recommend to be
+    over $200 to be good.</string>
+    <string name="springRecommend">I recommend getting something like a VSR-10.</string>
+    <string name="vsr10">VSR-10 Evike Link</string>
+
+    <!-- About -->
+    <string name="name">Johny Nguyen ITEC 4550 Mobile App Dev</string>
+    <string name="youtube">My YouTube is NekoMimi74</string>
+</resources>
